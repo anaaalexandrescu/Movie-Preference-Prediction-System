@@ -1,7 +1,7 @@
 # Movie Preference Prediction System
 
 ## 1. Overview
-This project implements a machine learning pipeline designed to predict whether a user will like a specific movie. By leveraging historical rating data, user demographics, and movie metadata, the system frames the recommendation problem as a binary classification task. It calculates comprehensive profiles for both users and items to accurately forecast user preferences.
+This project implements a machine learning pipeline designed to predict whether a user will like a specific movie. By leveraging historical rating data, user demographics, and movie metadata, the system frames the recommendation problem as a binary classification task. It calculates comprehensive profiles for both users and items to accurately forecast user preferences. 
 
 ## 2. Pipeline Overview
 The workflow consists of several interconnected stages:
