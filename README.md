@@ -38,3 +38,6 @@ The predictive engine relies on two robust ensemble learning algorithms:
 * *Stratified Validation*: The train-test split is stratified based on the target variable to ensure that both the training and testing sets maintain the same proportion of "Liked" vs "Not Liked" instances.
 * *Comprehensive Metrics*: The models are evaluated using multiple metrics: Accuracy, Precision, Recall, and the F1-Score (which balances Precision and Recall). Cross-validation is also performed to guarantee the model's stability across different subsets of data. 
 * *Visual Artifacts*: The pipeline automatically generates and exports high-resolution comparative plots, including distribution histograms, side-by-side Confusion Matrices, and top 15 Feature Importance charts for both algorithms.
+
+
+ 
